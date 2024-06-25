@@ -2,3 +2,4 @@ nginx
 xhofe/alist:latest
 alpine:latest
 daeuniverse/dae:20240616
+eclipse-temurin:8-jre
