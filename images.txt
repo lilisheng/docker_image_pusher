@@ -4,3 +4,5 @@ alpine:latest
 daeuniverse/dae:20240616
 daeuniverse/dae:20240715
 eclipse-temurin:8-jre
+nacos/nacos-server:v2.2.0
+nacos/nacos-server:v2.3.2
