@@ -1,5 +1,6 @@
 nginx
 xhofe/alist:latest
+xhofe/alist:v3.36.0
 alpine:latest
 daeuniverse/dae:20240616
 daeuniverse/dae:20240715
